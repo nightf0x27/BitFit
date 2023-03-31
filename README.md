@@ -2,7 +2,7 @@
 
 Submitted by: **Daniel Komar**
 
-**FitBit** is a health metrics app that allows users to track your daily nutrition [TODO] 
+**FitBit** is a health metrics app that allows users to track your daily nutrition habits
 
 Time spent: **19** hours spent in total
 
